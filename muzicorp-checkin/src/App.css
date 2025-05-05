@@ -407,8 +407,9 @@ h2 {
   display: block;
   margin: 0 auto 2rem auto;
   border-radius: 18px;
-  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.18);
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.0);
   object-fit: cover;
+  
 }
 
 .guestlookup-banner {
